@@ -1,4 +1,4 @@
-ENTREGA - Trabajo práctico
+REENTREGA - Trabajo práctico
 
 Trabajo original realizado en 2024. Reentrego por cursada 2025.
 Alumna: Tania Echeverry
