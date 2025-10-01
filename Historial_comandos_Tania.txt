@@ -1,1 +1,87 @@
+ssh-keygen -t ed25519
+vagrant ssh
+ssh-keygen -t25519
+ssh-keygen -t ed25519
+cat~/ .ssh/id_ed25519.pubcat ~/.ssh/id_ed25519.pub
+cat~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub
+cat /home/vagrant/.ssh/id_ed25519.pub
+ls -l /home/vagrant/.ssh/
+ssh-keygen -t ed25519
+cat /home/vagrant/.ssh/id_ed25519.pub
+mkdir repogit
+cd repogit
+git clone git@github.com:gsolerherrera/TP_AySO.gitvagrant haltcd repogit
+git clone git@github.com:gsolerherrera/TP_AySO.gitcd repogit
+vagrant halt
+exitexit
+logout
+1vagrantsssh
+eneeeeen-t-t-t-t-t-t5
+ssssssssssshhhhhid99atatatt~~~~~~~~~~~//////.__edcatct~55555555555555555...eeeaanteaaaaa//ss_ed_ed_____119 /        ///home///////hmeaaaaaa .ssss-k--------  dddddd.puuugrggggrnntsddddd22211119i eeeoooooooooooogggggggrraaggggggsogglheeeeeeeee//S
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:Bridtan/TP_AySO.git
+cd TPySO
+cd TP_AySO
+LS
+ls
+cd TP_AySO
+cat README.md
+pwd
+ls -l
+os-release
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-telease
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=Vagrant"> datos_usuario.txt
+cat datos_usuario.txt
+git add
+git add .
+git config --global user.name "Tania Echeverry"
+git config --global user.email "bridgettania31@gmail.com"
+git config --global --list
+git config --global user.email "taniaecheverry86@gmail.com
+git config --global user.email"taniaecheverry86@gmail.com"
+cat datos_usuario.txt
+history
+git  logclear
+clear
+git commit -m "ADD: agregado el 1er ejercicio sobre datos_usuario.txt"git commit -m "ADD: agregado el 1er ejercicio sobre datos_usuario.txt"
+git commit -m "ADD: agregado el 1er ejercicio sobre datos_usuario.txt"git statusclear
+git status
+git commit -m "ADD: agregado el 1er ejercicio sobre datos_usuario.txt"
+git pus git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git add datos_usuarios.txt
+git commit -m "feat: Añadiendo información de CPU"
+clear
+División: <División 318>
+Turno: <Turno noche>
+EOFclear{
+clear
+code .
+vagrant haltclear
+vagrant halt
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txtAlumno: Guille
+clear
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: añadiendo info de CPU"git commit -m "feat: Añadiendo información de CPU"git commit -m "feat: Añadiendo información de CPU"clear
+clear
+git commit -m "feat: Añadiendo información de CPU"
+git push
+cat <<EOF>> README.md
+Alumna = Tania Echeverry
+Division = 318
+Turno = Noche
+EOF
 
+history -a
