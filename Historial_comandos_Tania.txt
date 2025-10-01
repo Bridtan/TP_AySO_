@@ -22,12 +22,12 @@ ssssssssssshhhhhid99atatatt~~~~~~~~~~~//////.__edcatct~55555555555555555...eeeaa
 cd
 mkdir repogit
 cd repogit
-git clone git@github.com:Bridtan/TP_AySO.git
+git clone git@github.com:Bridtan/TP_AySO_.git
 cd TPySO
 cd TP_AySO
 LS
 ls
-cd TP_AySO
+cd TP_AySO_
 cat README.md
 pwd
 ls -l
@@ -46,8 +46,8 @@ git add .
 git config --global user.name "Tania Echeverry"
 git config --global user.email "bridgettania31@gmail.com"
 git config --global --list
-git config --global user.email "taniaecheverry86@gmail.com
-git config --global user.email"taniaecheverry86@gmail.com"
+git config --global user.email "bridgettania31@gmail.com
+git config --global user.email"bridgettania31@gmail.com"
 cat datos_usuario.txt
 history
 git  logclear
@@ -62,7 +62,7 @@ grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
 git add datos_usuarios.txt
 git commit -m "feat: Añadiendo información de CPU"
 clear
-División: <División 318>
+División: <División 315>
 Turno: <Turno noche>
 EOFclear{
 clear
@@ -70,7 +70,7 @@ code .
 vagrant haltclear
 vagrant halt
 grep "model name" /proc/cpuinfo | head -n1 >>
-datos_usuarios.txtAlumno: Guille
+datos_usuarios.txtAlumno: tania
 clear
 grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
 git add datos_usuario.txt
@@ -80,7 +80,7 @@ git commit -m "feat: Añadiendo información de CPU"
 git push
 cat <<EOF>> README.md
 Alumna = Tania Echeverry
-Division = 318
+Division = 315
 Turno = Noche
 EOF
 
